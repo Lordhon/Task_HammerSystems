@@ -62,5 +62,5 @@
 ## Инструкция по запуску
 
 ```bash
-git clone [<репозиторий>](https://github.com/Lordhon/Task_HammerSystems.git)
+git clone https://github.com/Lordhon/Task_HammerSystems.git
 docker-compose up --build
