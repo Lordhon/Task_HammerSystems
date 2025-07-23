@@ -65,3 +65,5 @@
 git clone https://github.com/Lordhon/Task_HammerSystems.git
 cd Task_HammerSystems
 docker-compose up --build
+docker-compose exec web python manage.py makemigrations
+docker-compose exec web python manage.py migrate
