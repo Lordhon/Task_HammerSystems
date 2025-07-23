@@ -63,4 +63,5 @@
 
 ```bash
 git clone https://github.com/Lordhon/Task_HammerSystems.git
+cd Task_HammerSystems
 docker-compose up --build
